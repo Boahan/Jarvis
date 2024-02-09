@@ -4,6 +4,9 @@
 
 This project is an AI Voice Assistant implemented in Python. It is designed to perform various tasks, making it a helpful virtual assistant. The assistant can tell jokes, search the web, play videos, provide fun facts, and deliver the latest news.
 
+![image](https://github.com/Boahan/Jarvis/assets/111555189/3b81d405-d7e3-41a9-bf13-a81adbb3fb1e)
+
+
 ## Features
 
 - **Speech Recognition**: The assistant can understand voice commands using the `speech_recognition` library.
